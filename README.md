@@ -1,1 +1,0 @@
-# set-induksi-ayat-perintah
